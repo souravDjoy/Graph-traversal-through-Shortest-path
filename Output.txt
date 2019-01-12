@@ -1,0 +1,14 @@
+Print the file name:
+Graph.txt
+
+This is the matrix:
+
+0 1 0 1 1 
+1 0 0 1 1 
+0 0 0 1 0 
+1 1 1 0 0 
+1 1 0 0 0 
+
+This is the graph traversal:
+A B D C E 
+
